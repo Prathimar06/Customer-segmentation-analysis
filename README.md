@@ -41,4 +41,4 @@ Future improvements include adding silhouette score and elbow method comparison,
 
 ## Author
 Prathima Rangavajjula  
-Engineering Student | Machine Learning and Data Analytics
+Engineering Student 
