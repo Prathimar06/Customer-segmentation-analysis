@@ -28,7 +28,7 @@ Customers were successfully segmented into meaningful groups. One cluster repres
 This project helped in gaining practical understanding of unsupervised machine learning, comparing different clustering algorithms on the same dataset, interpreting clustering results for real-world business scenarios, and understanding the importance of feature scaling in clustering problems.
 
 ## How to Run the Project
-Clone the repository using: git clone https://github.com/your-username/your-repo-name.git  
+Clone the repository using: git clone https://github.com/Prathimar06/Customer-segmentation-analysis.git  
 Install required dependencies using: pip install pandas numpy matplotlib seaborn scikit-learn  
 Launch Jupyter Notebook using: jupyter notebook  
 Open and run the notebook: notebooks/customer_segmentation_analysis.ipynb
